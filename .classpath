@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="libs/commons-dbcp2-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-dbutils-1.7.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="lib" path="libs/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="libs/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="libs/lz4-java-1.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="libs/netty-all-4.1.9.Final.jar"/>
+	<classpathentry kind="lib" path="libs/nutz-1.r.55.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="libs/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-pool2-2.5.0.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

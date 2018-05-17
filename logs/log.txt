@@ -1,0 +1,8 @@
+
+2018-05-10 08:48:52.673 pool-1-thread-1 INFO  [server.FullHttpServerHandler$WorkerThread] ClientIP: 127.0.0.1, ReqUri: /stat/get, ReqMethod: POST, AccessTime: 2018-05-10 08:48:52
+
+2018-05-10 08:48:52.968 pool-1-thread-1 INFO  [server.FullHttpServerHandler$WorkerThread] /stat/get Post Time consuming: 296ms
+
+2018-05-10 08:49:02.562 pool-2-thread-1 INFO  [server.FullHttpServerHandler$WorkerThread] ClientIP: 127.0.0.1, ReqUri: /stat/update, ReqMethod: POST, AccessTime: 2018-05-10 08:49:02
+
+2018-05-10 08:49:02.643 pool-2-thread-1 INFO  [server.FullHttpServerHandler$WorkerThread] /stat/update Post Time consuming: 81ms
